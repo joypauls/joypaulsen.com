@@ -1,20 +1,20 @@
 :root {
   /* --content-width: 810px; */
 
-  --light-primary-color: #ffffff;
-  --light-secondary-color: #dddddd;
+  --light-primary-color: #f3e8e8;
+  --light-secondary-color: #cbcbcb;
   --light-tertiary-color: #272822;
   --light-text-color: black;
 }
 
 @font-face {
-  font-family: Lato;
-  font-weight: 400;
-  src: url("/fonts/Lato-Regular.ttf");
+  font-family: RobotoSlabRegular;
+  font-weight: 100;
+  src: url("/fonts/RobotoSlab-Light.ttf");
 }
 
 @font-face {
-  font-family: Lato;
+  font-family: RobotoSlabBold;
   font-weight: 700;
   src: url("/fonts/Lato-Bold.ttf");
 }
@@ -22,7 +22,7 @@
 html {
   background-color: var(--light-primary-color);
   color: var(--light-text-color);
-  font-family: "Lato", sans-serif;
+  font-family: "RobotoSlabRegular";
   font-size: 17.5px;
   min-height: 100%;
   position: relative;
@@ -566,7 +566,7 @@ table td {
   align-items: center;
   justify-content: center;
   margin: 0;
-  padding: 8px;
+  padding: 1rem;
 
   /* @media #{$media-size-phone} {
     margin-top: 0;
