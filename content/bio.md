@@ -1,0 +1,54 @@
++++
+title = "Bio"
++++
+
+# TL;DR
+
+👋 Hi there! I'm **Joy Paulsen** (pronouns are [they/them](https://pronoun.is/they/)), a data scientist and engineer living in **Minneapolis, MN**. Currently working on real-time personalization at [Target](https://tech.target.com/). My professional interests outside of data science include computer vision, computational photography, and distributed computing.
+
+---
+
+# Work
+
+## Current
+
+Currently working on personalization at [Target](https://tech.target.com/). My team primarily focuses on building performant streaming applications for real-time inference used to enhance UX on the flagship website and app.
+
+## Previously
+
+Before that, I was a member of the wonderful data science team at C.H. Robinson, a third-party logistics (3PL) provider.  I ended my time there leading a team focused on building fast recommentation systems and search engine capabilities for their flagship app, and was involved in a diverse range of problem spaces including time series forecasting and pricing.
+
+
+
+---
+
+
+# Play
+
+My passions outside of programming, data, and math revolve around amateur astronomy and photography. When skies are clear, you can find me out at night with telescopes and cameras, collecting data and creating images like this:
+
+{{< rawhtml >}}
+<!-- <figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
+  <img src="/images/north_america_nebula.jpg" style="max-width: 350px">
+  <figcaption style="text-align: center; font-style: italic; font-size: medium;">The "North America" Nebula (IC 1805)</figcaption>
+</figure> -->
+
+<figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
+  <img src="/images/andromeda.jpg" style="max-width: 350px">
+  <figcaption style="text-align: center; font-style: italic; font-size: medium;">The Andromeda Galaxy (M31)</figcaption>
+</figure>
+{{< /rawhtml >}}
+
+You can check out some others [over at my gallery](https://www.starlitjoy.com/)!
+
+---
+
+Built with [Hugo](https://gohugo.io/) and hosted with [Netlify](https://www.netlify.com/).
+
+
+{{< rawhtml >}}
+<br />
+<br />
+<br />
+{{< /rawhtml >}}
+

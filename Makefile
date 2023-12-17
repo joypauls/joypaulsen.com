@@ -1,5 +1,5 @@
 run-dev:
-	hugo server -D
+	hugo server -D --port 63823
 
 run:
 	hugo --gc --minify

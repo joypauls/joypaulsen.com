@@ -1,78 +1,23 @@
-baseURL = "https://joypauls.dev"
-title = "Joy Paulsen"
-theme = "gokarna-modified"
-languageCode = "en"
-defaultContentLanguage = "en"
+theme = "lynx"
+title = "joypaulsen.com"
+
 enableEmoji = true
-enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 
-# Choose one of emacs, trac or perldoc
-pygmentsStyle = "monokai"
-
-[params]
-  footer = "Joy Paulsen"
-  description = "Data Scientist. Developer. Builder."
-  brand = "joypauls.dev"
-  accentColor = "#e090c3"
-  # avatarURL = "/images/portrait.jpg"
-  avatarSize = "size-m"
-  customHeadHTML = """
-    <!-- KaTeX -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.16/dist/katex.min.css" integrity="sha384-6LkG2wmY8FK9E0vU9OOr8UvLwsaqUg9SETfpq4uTCN1agNe8HRdE9ABlk+fVx6gZ" crossorigin="anonymous">
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.16/dist/katex.min.js" integrity="sha384-31El76TwmbHj4rF9DyLsygbq6xoIobG0W+jqXim+a3dU9W53tdH3A/ngRPxOzzaB" crossorigin="anonymous"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.16/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"
-        onload="renderMathInElement(document.body);"></script>
-  """
-  socialIcons = [
-    {name = "github", url = "https://github.com/joypauls/"},
-    {name = "linkedin", url = "https://www.linkedin.com/in/joy-paulsen-0bb55419b/"},
-    {name = "email", url = "mailto:hello@joypauls.dev"},
-    # {name = "dribbble", url = "https://example.com"},
-    # {name = "instagram", url = "https://example.com"},
-    # {name = "twitch", url = "https://example.com"},
+[params.author]
+  name = "Joy Paulsen"
+  headline = "data scientist / coder / picture taker"
+  image = "author.jpg"
+  links = [
+    { link = { href = "bio/", text = "Bio", target = "_self" } },
+    { linkedin = "https://linkedin.com/in/joy-paulsen-0bb55419b" },
+    { github = "https://github.com/joypauls" },
+    { email = "mailto:hello@joypauls.dev" },
   ]
-  metaKeywords = ["blog", "portfolio", "hugo"]
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[markup.highlight]
+  noClasses = false
 
-  # [[menu.main]]
-  #   name = "Posts"
-  #   url = "/posts/"
-  #   weight = 2
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
-  # [[menu.main]]
-  #   name = "Tags"
-  #   url = "/tags/"
-  #   weight = 4
-
-  # [[menu.main]]
-  #   identifier = "github"
-  #   pre = "<span data-feather='github'></span>"
-  #   url = "https://github.com/joypauls"
-  #   weight = 5
-
-  # [[menu.main]]
-  #   identifier = "buymeacoffee"
-  #   pre = "<span data-feather='coffee'></span>"
-  #   url = "https://www.buymeacoffee.com/avijitgupta"
-  #   weight = 6
-
-  # [[menu.main]]
-  #   identifier = "rss"
-  #   pre = "<span data-feather='rss'></span>"
-  #   url = "/index.xml"
-  #   weight = 7
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
