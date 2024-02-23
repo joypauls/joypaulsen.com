@@ -12,12 +12,11 @@ title = "Bio"
 
 ## Current
 
-Currently working on personalization at [Target](https://tech.target.com/). My team primarily focuses on building performant streaming applications for real-time inference used to enhance UX on the flagship website and app.
+Currently working on personalization at [Target](https://tech.target.com/). My cross-functional team primarily focuses on building performant streaming applications for real-time inference used to enhance UX on the flagship website and mobile app. Additionally, I have also worked on both traditional and deep learning recommendation systems in various contexts during my time at Target.
 
 ## Previously
 
-Before that, I was a member of the wonderful data science team at C.H. Robinson, a third-party logistics (3PL) provider.  I ended my time there leading a team focused on building fast recommentation systems and search engine capabilities for their flagship app, and was involved in a diverse range of problem spaces including time series forecasting and pricing.
-
+Before that, I was a member of the wonderful data science team at C.H. Robinson, a third-party logistics (3PL) provider.  I ended my time there leading a team focused on building fast recommentation systems and search engine capabilities for their flagship app, having previously worked on a diverse range of problem spaces including pricing and demand forecasting.
 
 
 ---
@@ -25,7 +24,7 @@ Before that, I was a member of the wonderful data science team at C.H. Robinson,
 
 # Play
 
-My passions outside of programming, data, and math revolve around amateur astronomy and photography. When skies are clear, you can find me out at night with telescopes and cameras, collecting data and creating images like this:
+My passions outside of programming, data, and math revolve around amateur astronomy and photography. When skies are clear, you can find me out at night with telescopes and cameras, creating images like this:
 
 {{< rawhtml >}}
 <!-- <figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
