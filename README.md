@@ -2,5 +2,7 @@
 
 # Personal Portfolio Website
 
-- Built with Hugo 
+Small collection of links and contact methods.
+
+- Built with Hugo (and the Lynx theme)
 - Hosted on Netflify

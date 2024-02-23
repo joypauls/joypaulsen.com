@@ -1,4 +1,4 @@
-run-dev:
+dev:
 	hugo server -D --port 63823
 
 run:

@@ -3,6 +3,7 @@
 @tailwind base;
 @tailwind components;
 
+
 /* Scale SVG icons to text size */
 .icon svg {
   height: 1em;
