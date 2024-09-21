@@ -12,3 +12,11 @@ img {
   background-color: #00b490;
 }
 
+svg rect {
+  fill: #7e22ce;
+}
+
+#chart-wrapper {
+  margin-bottom: 1rem;
+}
+
