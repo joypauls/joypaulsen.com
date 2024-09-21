@@ -6,6 +6,10 @@ title = "Bio"
 
 👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data scientist and engineer living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on real-time personalization at [Target](https://tech.target.com/). My other professional interests include computer vision, computational photography, and distributed computing.
 
+<figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
+  <img src="/images/bio.jpg" style="max-width: 350px">
+</figure>
+
 ---
 
 # Work

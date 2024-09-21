@@ -6,8 +6,8 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
 name = "Joy Paulsen"
-headline = "data scientist / coder / picture taker"
-image = "author.jpg"
+headline = "data scientist // engineer // photographer"
+# image = "author.jpg"
 links = [
   { link = { href = "bio/", text = "Bio", target = "_self" } },
   { link = { href = "https://joypauls.dev/", text = "Blog", target = "_blank" } },
