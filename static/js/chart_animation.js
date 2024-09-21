@@ -7,7 +7,7 @@ const MAX_DEVIATE = 2.5 * SIGMA;
 // 2. Create chart dimensions
 
 const BAR_PADDING = 1;
-const WIDTH = 200;
+const WIDTH = 220;
 const DIMENSIONS = {
   width: WIDTH,
   height: WIDTH * 0.45,

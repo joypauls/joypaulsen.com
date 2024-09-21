@@ -2,7 +2,7 @@
 title = "Bio"
 +++
 
-# TL;DR
+<!-- # TL;DR -->
 
 👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data scientist and engineer living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on real-time personalization at [Target](https://tech.target.com/). My other professional interests include computer vision, computational photography, and distributed computing.
 
