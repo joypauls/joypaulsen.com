@@ -6,11 +6,11 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
 name = "Joy Paulsen"
-headline = "data scientist // engineer // photographer"
+headline = "data scientist / engineer / photographer"
 # image = "author.jpg"
 links = [
   { link = { href = "bio/", text = "Bio", target = "_self" } },
-  { link = { href = "https://joypauls.dev/", text = "Blog", target = "_blank" } },
+  # { link = { href = "https://joypauls.dev/", text = "Blog", target = "_blank" } },
   { linkedin = "https://linkedin.com/in/joy-paulsen-0bb55419b" },
   { github = "https://github.com/joypauls" },
   { email = "mailto:hello@joypauls.dev" },

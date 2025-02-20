@@ -24,9 +24,9 @@ Before that, I was a member of the wonderful data science team at C.H. Robinson,
 
 ---
 
-# Play
+<!-- # Play
 
-My passions outside of programming, data, and math revolve around amateur astronomy and photography. When skies are clear, you can find me out at night with telescopes and cameras, creating images like this:
+My passions outside of programming, data, and math revolve around amateur astronomy and photography. When skies are clear, you can find me out at night with telescopes and cameras, creating images like this: -->
 
 {{< rawhtml >}}
 
@@ -35,15 +35,13 @@ My passions outside of programming, data, and math revolve around amateur astron
   <figcaption style="text-align: center; font-style: italic; font-size: medium;">The "North America" Nebula (IC 1805)</figcaption>
 </figure> -->
 
-<figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
+<!-- <figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
   <img src="/images/andromeda.jpg" style="max-width: 350px">
   <figcaption style="text-align: center; font-style: italic; font-size: medium;">The Andromeda Galaxy (M31)</figcaption>
-</figure>
+</figure> -->
 {{< /rawhtml >}}
 
-You can check out more of my astrophotography on my [Instagram](https://www.instagram.com/starlit.joy/).
-
----
+<!-- You can check out more of my astrophotography on my [Instagram](https://www.instagram.com/starlit.joy/). -->
 
 # Meta
 

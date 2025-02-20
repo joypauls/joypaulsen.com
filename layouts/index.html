@@ -27,7 +27,7 @@
         {{ .Params.title | default .Site.Params.Author.name | default .Site.Title | emojify }}
       </h1>
       {{ with .Site.Params.Author.headline }}
-        <p class="text-neutral-500 dark:text-neutral-400">
+        <p class="text-neutral-500 dark:text-neutral-400" style="font-weight: 100;">
           {{ . | markdownify | emojify }}
         </p>
       {{ end }}

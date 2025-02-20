@@ -1,4 +1,8 @@
 /* -- Custom Styles -- */
+html body {
+  background-color: #29242e !important;
+}
+
 img {
   margin-bottom: 50px;
   border: 4px solid #fff;
@@ -19,4 +23,3 @@ svg rect {
 #chart-wrapper {
   margin-bottom: 1rem;
 }
-
