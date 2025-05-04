@@ -4,10 +4,10 @@ title = "Bio"
 
 <!-- # TL;DR -->
 
-👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data scientist and engineer living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on real-time personalization at [Target](https://tech.target.com/). My other professional interests include computer vision, computational photography, and distributed computing.
+👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data scientist and engineer living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on personalization at [Target](https://tech.target.com/). My other professional interests include data visualization, climate science, and science communication.
 
 <figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
-  <img src="/images/bio.jpg" style="max-width: 350px">
+  <img src="/images/bio.jpg" style="max-width: 400px">
 </figure>
 
 ---
@@ -16,7 +16,7 @@ title = "Bio"
 
 ## Current
 
-I'm currently working on personalization at [Target](https://tech.target.com/). My cross-functional team primarily focuses on building performant streaming applications for real-time inference used to enhance UX on the flagship website and mobile app. Additionally, I have also worked on both traditional and deep learning recommendation systems in various contexts during my time at Target.
+My cross-functional team at Target primarily focuses on building performant streaming applications for real-time inference used to enhance UX on the flagship website and mobile app. Additionally, I have also worked on both traditional and deep learning recommendation systems in various contexts during my time at Target.
 
 ## Previously
 
