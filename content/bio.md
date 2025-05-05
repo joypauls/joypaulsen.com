@@ -4,7 +4,7 @@ title = "Bio"
 
 <!-- # TL;DR -->
 
-👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data scientist and engineer living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on personalization at [Target](https://tech.target.com/). My other professional interests include data visualization, climate science, and science communication.
+👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data scientist and engineer living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on personalization at [Target](https://tech.target.com/). My other professional interests include statistics, data visualization, and climate science.
 
 <figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
   <img src="/images/bio.jpg" style="max-width: 400px">
