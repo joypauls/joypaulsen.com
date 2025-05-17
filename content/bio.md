@@ -4,10 +4,10 @@ title = "Bio"
 
 <!-- # TL;DR -->
 
-👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data-oriented professional living in **Minneapolis, MN**. I'm currently a Lead Data Scientist working on personalization at [Target](https://tech.target.com/). A few of my other professional interests are software engineering, sustainability, and climate science.
+👋 Hi there! I'm **Joy Paulsen** (pronouns are they/them), a data-oriented professional living in **Minneapolis, MN**. I'm currently a **Lead Data Scientist** working on personalization at [Target](https://tech.target.com/). A few of my other professional interests include software engineering, sustainability, and climate science.
 
 <figure style="margin-bottom: 1rem; display: flex; flex-direction: column; align-items: center;">
-  <img src="/images/bio.jpg" style="width: 400px; max-width: 100%">
+  <img src="/images/bio3.jpg" style="width: 500px; max-width: 100%">
 </figure>
 
 ---
@@ -26,7 +26,7 @@ Before that, I was a member of the wonderful data science team at C.H. Robinson,
 
 # Meta
 
-Built with [Hugo](https://gohugo.io/) and hosted with [Netlify](https://www.netlify.com/).
+Built with [Hugo](https://gohugo.io/) and hosted with [Netlify](https://www.netlify.com/). The animation on the home page is made with [D3.js](https://d3js.org/) and shows the histogram of random samples drawn from a normal distribution - every instance is different!
 
 {{< rawhtml >}}
 <br />
