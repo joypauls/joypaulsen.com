@@ -64,16 +64,18 @@
               {{ with $data.title }}{{ $title = . }}{{ end }}
             {{ end }}
             <a
-              class="link link-{{ $type }} mb-3 min-w-full py-2 text-lg sm:px-24"
+              class="link link-{{ $type }} mb-3 min-w-full py-2 text-lg sm:px-24 flex justify-center mb-5"
               href="{{ $href }}"
               target="{{ $target }}"
               {{ with $title }}title="{{ . }}"{{ end }}
               rel="me noopener noreferrer"
             >
               {{- with $icon -}}
-                <span class="mr-1">{{ partial "icon.html" . }}</span>
+                <div class="icon flex flex-col justify-center">{{ partial "icon.html" . }}</div>
               {{- end -}}
-              {{ $text | emojify }}
+              <div style="margin-left: 0.5rem;">
+                {{ $text | emojify }}
+              </div>
             </a>
           {{ end }}
         {{ end }}

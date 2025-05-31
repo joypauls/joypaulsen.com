@@ -2,6 +2,7 @@ const colors = require("tailwindcss/colors");
 
 module.exports = {
   content: [
+    "./layouts/*.html",
     "./layouts/**/*.html",
     "./content/**/*.{html,md}",
     "./themes/lynx/layouts/**/*.html",
